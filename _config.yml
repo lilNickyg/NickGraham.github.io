@@ -2,16 +2,16 @@ url: https://lilNickyg.github.io
 baseurl: /lilNickyg.github.io/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: BeNickEd
+email: ilovehearthstone@hotmail.com
+description: "BeNickEd is a nameplace for Nick's projects and business ideas. Any exciting plans ideas and projects I'm working on will be posted here."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Eddie Cheung
   pic: 1
-  position: Lead Designer
+  position: Accountant
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Nick Graham
   pic: 2
-  position: Lead Marketer
+  position: CEO & Design Engineer
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Ben Youell
   pic: 3
-  position: Lead Developer
+  position: Lead Marketer
   social:
     - title: twitter
       url: #
@@ -45,20 +45,20 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/lilNickyg
 
 # Postal address (add as many lines as necessary)
 address:
   - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Bracknell, CA 90210
 
 # Build settings
 markdown: kramdown
