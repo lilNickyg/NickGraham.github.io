@@ -4,8 +4,8 @@ subtitle: Home Automation
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: python.png
-thumbnail: python.png
+img: Python.png
+thumbnail: Python.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
