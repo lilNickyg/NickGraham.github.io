@@ -3,7 +3,7 @@ title: Blender
 subtitle: Learning tutorials
 layout: default
 modal-id: 5
-date: 2018-12-05
+date: 2018-07-11
 img: Blender.png
 thumbnail: Blender.png
 alt: image-alt
