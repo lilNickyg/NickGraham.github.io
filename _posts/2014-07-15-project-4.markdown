@@ -3,7 +3,7 @@ title: 3D printing
 subtitle: Learning
 layout: default
 modal-id: 4
-date: 2018-12-10
+date: 2018-12-06
 img: ender3.png
 thumbnail: ender3.png
 alt: image-alt
