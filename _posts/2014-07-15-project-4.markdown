@@ -3,13 +3,13 @@ title: 3D printing
 subtitle: Learning
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2018-12-10
 img: ender3.png
 thumbnail: ender3.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: December 2018
+client: Self
+category: Self Development
+description: I'm planning to get my own Ender 3 printer for my birthday in April 2019. I will be using it for prototyping and manufacturing my own designs.
 
 ---

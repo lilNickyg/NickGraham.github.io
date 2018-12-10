@@ -3,13 +3,13 @@ title: Blender
 subtitle: Learning tutorials
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2018-12-10
 img: Blender.png
 thumbnail: Blender.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: December 2018
+client: Self
+category: Self Development
+description: Currently have done a few renders with Blender Cycles of satellite equipment in-space for R&D to be used in a bid. And still learning from tutorials at home.
 
 ---

@@ -3,13 +3,13 @@ title: Python
 subtitle: Home Automation
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2018-12-10
 img: Python.png
 thumbnail: Python.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: December 2018
+client: Self
+category: Self Development
+description: Learning Python to use in conjunction with my Raspberry Pi 3 model B. After setting up some basic stuff like a Network Ad Blocker, Kodi Home Theater Software and Parsec, I'm currently planning to connect some LEDs to the Pi and use Python to program them to act as an ambilight for the TV.
 
 ---
