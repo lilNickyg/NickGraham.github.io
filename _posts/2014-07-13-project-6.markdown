@@ -1,6 +1,6 @@
 ---
-title: Logo Design
-subtitle: Graphic Design
+title: IRIS Keyboard
+subtitle: Split Ortholinear Design
 layout: default
 modal-id: 6
 date: 2018-06-15
@@ -9,7 +9,8 @@ thumbnail: Logo4.png
 alt: image-alt
 project-date: June 2018
 client: N/A
-category: Self Development
-description: Did a Logo design for a someone who was starting up a new business and website.
+category: Electronics
+description: Practising first using an Ultimate starter kit for the Raspberry Pi 3B as an introduction to wiring LEDs, rotary encoders and joysticks, I plan to build an IRIS keyboard with custom features and designs such as rotary encoders, joyosticks and 3D printed cases. 
+
 
 ---
