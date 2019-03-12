@@ -4,8 +4,8 @@ subtitle: Split Ortholinear Design
 layout: default
 modal-id: 6
 date: 2018-06-15
-img: Logo4.png
-thumbnail: Logo4.png
+img: Keyboard.png
+thumbnail: Keyboard.png
 alt: image-alt
 project-date: June 2018
 client: N/A
