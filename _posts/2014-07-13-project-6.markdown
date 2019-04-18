@@ -3,14 +3,14 @@ title: IRIS Keyboard
 subtitle: Split Ortholinear Design
 layout: default
 modal-id: 6
-date: 2018-06-15
+date: 2019-04-01
 img: Keyboard.png
 thumbnail: Keyboard.png
 alt: image-alt
-project-date: June 2018
+project-date: April 2019
 client: N/A
 category: Electronics
-description: Practising first using an Ultimate starter kit for the Raspberry Pi 3B as an introduction to wiring LEDs, rotary encoders and joysticks, I plan to build an IRIS keyboard with custom features and designs such as rotary encoders, joysticks and 3D printed cases. 
+description: Practising first using an Ultimate starter kit for the Raspberry Pi 3B as an introduction to wiring LEDs, rotary encoders and joysticks, I have built an IRIS keyboard and plan to add custom features and designs such as rotary encoders, joysticks. Will post a build log with more images soon.
 
 
 ---
