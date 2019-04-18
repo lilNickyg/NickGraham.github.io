@@ -2,7 +2,7 @@
 title: Blender
 subtitle: Learning tutorials
 layout: default
-modal-id: 6
+modal-id: 5
 date: 2018-07-11
 img: Blender.png
 thumbnail: Blender.png
