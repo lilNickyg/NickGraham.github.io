@@ -1,0 +1,16 @@
+---
+title: MATLAB Tool
+subtitle: Thermal Orbit calculator
+layout: default
+modal-id: 7
+date: 2019-07-13
+img: Keyboard.png
+thumbnail: Keyboard.png
+alt: image-alt
+project-date: July 2019
+client: N/A
+category: Programming
+description: Used MATLAB to refine a thermal problem I plotted in Excel, and turning into an online calculator tool.
+
+
+---
