@@ -10,7 +10,7 @@ alt: image-alt
 project-date: July 2019
 client: N/A
 category: Programming
-description: Used MATLAB to refine a thermal problem I plotted in Excel, and turning into an online calculator tool.
+description: Used MATLAB to refine a thermal problem I plotted in Excel, and turning into an online calculator tool. See https://matlab.mathworks.com/users/lilnickyg/Published/ex6/index.html
 
 
 ---
