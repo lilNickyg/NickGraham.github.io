@@ -2,8 +2,8 @@
 title: Electronics Classes
 subtitle: Microcontrollers
 layout: default
-modal-id: 7
-date: 2019-07-13
+modal-id: 8
+date: 2019-07-14
 img: electronic.png
 thumbnail: electronic.png
 alt: image-alt
