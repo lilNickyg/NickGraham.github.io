@@ -4,8 +4,8 @@ subtitle: This Website
 layout: default
 modal-id: 2
 date: 2018-12-08
-img: BeNickEd.png
-thumbnail: BeNickEd.png
+img: website.png
+thumbnail: website.png
 alt: image-alt
 project-date: December 2018
 client: BeNickEd
