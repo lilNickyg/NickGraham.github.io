@@ -1,0 +1,16 @@
+---
+title: Home Cinema Surround Sound
+subtitle: Electronics
+layout: default
+modal-id: 11
+date: 2022-04-07
+img: S660.jpg
+thumbnail: S660.jpg
+alt: image-alt
+project-date: April 2022
+client: N/A
+category: Electronics
+description: Building a Home Cinema Surround Sound Setup 5.1
+
+
+---

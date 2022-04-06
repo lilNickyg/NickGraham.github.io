@@ -1,0 +1,16 @@
+---
+title: Nixie Valve Clock
+subtitle: Electronics
+layout: default
+modal-id: 10
+date: 2022-04-06
+img: Nixie.jpg
+thumbnail: Nixie.jpg
+alt: image-alt
+project-date: April 2022
+client: N/A
+category: Electronics
+description: Building a Nixie Valve Clock my Dad got me for Christmas.
+
+
+---
