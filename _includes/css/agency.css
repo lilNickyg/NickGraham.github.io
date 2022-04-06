@@ -278,6 +278,9 @@ header {
     background-size: cover;
     -o-background-size: cover;
 */
+}
+
+header .video-wrapper {
   /* Telling our absolute positioned video to
 be relative to this element */
     position: relative;
