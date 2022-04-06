@@ -1,5 +1,5 @@
 ---
-title: BeNickEd
+title: Nickyg
 subtitle: This Website
 layout: default
 modal-id: 2
@@ -8,7 +8,7 @@ img: website.png
 thumbnail: website.png
 alt: image-alt
 project-date: December 2018
-client: BeNickEd
+client: Nickyg
 category: Web Development
 description: Don't think I need to explain much here. This website is my first portfolio site using Github Pages, which I'm excited to share.
 
