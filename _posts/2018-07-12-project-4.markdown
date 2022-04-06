@@ -4,12 +4,12 @@ subtitle: Learning
 layout: default
 modal-id: 4
 date: 2018-07-12
-img: ender3.png
-thumbnail: ender3.png
+img: Witcher.jpg
+thumbnail: Witcher.jpg
 alt: image-alt
 project-date: December 2018
 client: Self
 category: Self Development
-description: I'm planning to get my own Ender 3 printer for my birthday in April 2019. I will be using it for prototyping and manufacturing my own designs.
+description: I have my own Elegoo Mars Pro 2 (SLS resin printer) for making prototypes.
 
 ---
