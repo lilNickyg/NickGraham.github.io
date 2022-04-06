@@ -300,12 +300,15 @@ header .video-wrapper {
   justify-content: center;
 }
 
-header .intro-text {
+header .video-wrapper .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+    position: relative;
+    color: white;
+    text-shadow: 1px 1px 8px rgba(0,0,0,0.6);
 }
 
-header .intro-text .intro-lead-in {
+header .video-wrapper .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
@@ -314,7 +317,7 @@ header .intro-text .intro-lead-in {
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
-header .intro-text .intro-heading {
+header .video-wrapper .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
