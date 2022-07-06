@@ -4,13 +4,13 @@ subtitle: Work
 layout: default
 modal-id: 11
 date: 2022-06-07
-img: S660.jpg
-thumbnail: S660.jpg
+img: Wrapped.png
+thumbnail: Wrapped.png
 alt: image-alt
 project-date: July 2022
 client: N/A
-category: Electronics
-description: Building a Home Cinema Surround Sound Setup 5.1
+category: Mechanical
+description: Check out <a href="https://oxford.space/">Oxford.space</a> to see all the work and product I have been involved in over the last 4 years at Oxford Space Systems.
 
 
 ---
