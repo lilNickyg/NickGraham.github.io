@@ -4,8 +4,8 @@ subtitle: Learning
 layout: default
 modal-id: 3
 date: 2018-07-12
-img: witcher1.jpg
-thumbnail: witcher1.jpg
+img: Blender.png
+thumbnail: Blender.png
 alt: image-alt
 project-date: December 2018
 client: Self
