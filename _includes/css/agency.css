@@ -384,7 +384,6 @@ section h3.section-subheading {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
-    max-height:  250px;
     display: table;
 }
 
@@ -392,6 +391,8 @@ section h3.section-subheading {
     display: block;
     position: relative;
     margin: 0 auto;
+    height: 150px;
+    overflow: hidden;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {

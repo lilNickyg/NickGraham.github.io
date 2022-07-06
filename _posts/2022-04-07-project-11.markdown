@@ -1,5 +1,5 @@
 ---
-title: Home Cinema Surround Sound
+title: Home Cinema
 subtitle: Electronics
 layout: default
 modal-id: 11
