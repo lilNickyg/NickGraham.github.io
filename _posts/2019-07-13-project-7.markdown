@@ -1,6 +1,6 @@
 ---
 title: MATLAB Tool
-subtitle: Thermal Orbit calculator
+subtitle: Programming
 layout: default
 modal-id: 7
 date: 2019-07-13
@@ -10,7 +10,7 @@ alt: image-alt
 project-date: July 2019
 client: N/A
 category: Programming
-description: Used MATLAB to refine a thermal problem I plotted in Excel, and turning into an online calculator tool. See <a href="https://matlab.mathworks.com/users/lilnickyg/Published/ex6/index.html"> Example code here. </a>
+description: Used MATLAB to refine a thermal orbital problem I plotted in Excel, and turning into an online calculator tool. See <a href="https://matlab.mathworks.com/users/lilnickyg/Published/ex6/index.html"> Example code here. </a>
 
 
 ---

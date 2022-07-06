@@ -10,7 +10,7 @@ alt: image-alt
 project-date: September 2021
 client: N/A
 category: Robotics
-description: Building Micro/Nano robots in lab environment.
+description: Contract work designing assembling and testing Micro/Nano robots in lab environment. (Image shown is HAMR-JR developed by Harvard. WIP image not available yet due to NDA)
 
 
 ---

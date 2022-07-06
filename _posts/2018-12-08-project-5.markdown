@@ -1,6 +1,6 @@
 ---
-title: Nickyg
-subtitle: This Website
+title: This Website
+subtitle: Programming
 layout: default
 modal-id: 5
 date: 2018-12-08

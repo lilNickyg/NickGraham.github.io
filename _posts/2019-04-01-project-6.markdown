@@ -1,6 +1,6 @@
 ---
 title: IRIS Keyboard
-subtitle: Split Ortholinear Design
+subtitle: Electronics
 layout: default
 modal-id: 6
 date: 2019-04-01
