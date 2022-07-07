@@ -1,16 +1,16 @@
 ---
-title: Electronics Classes
-subtitle: Microcontrollers
+title: OXLABS
+subtitle: Air Purifier
 layout: default
 modal-id: 8
 date: 2019-07-14
-img: electronic.png
-thumbnail: electronic.png
+img: Air2.png
+thumbnail: Air2.png
 alt: image-alt
 project-date: July 2019
 client: N/A
 category: Programming
-description: Using Keil V5 with uVision IDE to program basic functions of microcontrollers from scratch such as setting clock, function, moder, and learning I2C basics.
+description: Working on an air purifier for a Kickstarter, that has the option to be both a desktop purifier and connected to a Mask for mobile use.
 
 
 ---
